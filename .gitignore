@@ -1,0 +1,22 @@
+.DS_Store
+/build
+/captures
+
+# Gradle
+.gradle
+build
+
+# IDEA
+out
+.idea
+*.iml
+
+# Local properties
+local.properties
+
+gradlew.bat
+gradlew
+gradle.properties
+gradle
+
+
